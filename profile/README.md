@@ -10,4 +10,4 @@ Feel free to explore all of this organization!
 ## Repositories:
 * [Flutter Front](https://github.com/2026-1-Moviles-G31/Front-Flutter)
 * [Kotlin Front](https://github.com/2026-1-Moviles-G31/Front-Kotlin)
-* [Analytics Front](https://github.com/2026-1-Moviles-G31/Analytics-Back)
+* [Analytics Back](https://github.com/2026-1-Moviles-G31/Analytics-Back)
